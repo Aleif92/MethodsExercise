@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BDo//jusNLcjYGTWFWohZUUF5wXiTid7LD09qBIBo5Ab14Vc3s2DlwFu9jWPgUdowWRHNmFn7gsa5cjbQU39SA==",
+  "dgSpecHash": "hJTFmrlpRrtEAmqG65zyan3s1nlRup5l8jCHkDv99CuMlYlk31+OACcfw735sNCibyjKdBkba1XL06F/DnbUKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\TrueCoders\\Full-Stack\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aleif\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleif\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\aleif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\aleif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\aleif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
